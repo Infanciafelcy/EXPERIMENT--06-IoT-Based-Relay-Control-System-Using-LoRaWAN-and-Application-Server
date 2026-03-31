@@ -1,4 +1,4 @@
-# EXPERIMENT--06-IoT-Based-Relay-Control-System-Using-LoRaWAN-and-Application-Server
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7a52c3ff-48b2-4f78-b084-462199f4deb3" /># EXPERIMENT--06-IoT-Based-Relay-Control-System-Using-LoRaWAN-and-Application-Server
 
 ### NAME : INFANCIA FELCY P
 ### REG NO: 212223040067
@@ -28,24 +28,47 @@ To configure a LoRaWAN end device and monitor IR sensor data using a network ser
 
 ## Output
 ### 1. Serial Port Utility – Network Server Connection
-<img width="1364" height="713" alt="image" src="https://github.com/user-attachments/assets/5a41bf1f-faff-4f95-8d5a-8fc3c4a1396f" />
-<img width="1364" height="716" alt="image" src="https://github.com/user-attachments/assets/2cff4e65-a275-4273-9cfc-bfdde29fcbf9" />
+
+#### AT+FDR
+![WhatsApp Image 2026-03-31 at 1 14 07 PM](https://github.com/user-attachments/assets/81677354-a77a-48b7-95d7-8121687a88ed)
+
+#### AT+NJM=2
+<img width="1600" height="957" alt="image" src="https://github.com/user-attachments/assets/f1fb624e-1359-49ed-a44e-a43160d016a8" />
+
+#### AT+ADR=1
+<img width="1600" height="949" alt="image" src="https://github.com/user-attachments/assets/009810cf-701d-43b0-bcf5-261eb070b433" />
+
+#### AT+TDC=600000
+<img width="1600" height="950" alt="image" src="https://github.com/user-attachments/assets/39e97888-b2f6-433f-b130-387cfad910a3" />
+
+#### AT+CLASS=C
+<img width="1600" height="922" alt="image" src="https://github.com/user-attachments/assets/f038d699-7282-4d9c-aea6-345e92bacf16" />
+
+#### AT+DEUI=
+<img width="1600" height="947" alt="image" src="https://github.com/user-attachments/assets/f0da42fa-ffe9-4f8e-9687-9c46d6dab020" />
+#### AT+APPEUI=
+<img width="1600" height="945" alt="image" src="https://github.com/user-attachments/assets/06b91bd7-1b5e-4d36-b2ca-b33eba39c273" />
+
+#### ATZ
+<img width="1600" height="927" alt="image" src="https://github.com/user-attachments/assets/8b95ff4f-5d42-42c8-ac71-2f3a95079a11" />
 
 ### 2. Network Server – Recent Events
-<img width="1350" height="637" alt="image" src="https://github.com/user-attachments/assets/dc795d92-fa9d-4866-ad78-abccd88da4c7" />
-<img width="1362" height="679" alt="image" src="https://github.com/user-attachments/assets/bb5f426c-edf2-480f-8f30-38716490fd90" />
+<img width="1600" height="868" alt="image" src="https://github.com/user-attachments/assets/9fb42b9c-4129-4de3-b57c-a4a8ee1c6897" />
 
 ### 3. Dashboard Command Sending
-<img width="1356" height="638" alt="image" src="https://github.com/user-attachments/assets/65226f74-21ad-4325-8cdb-407d4b485b8b" />
-<img width="1360" height="677" alt="image" src="https://github.com/user-attachments/assets/d6488885-96af-4357-85ec-fc84968219d2" />
+<img width="1600" height="847" alt="image" src="https://github.com/user-attachments/assets/469d6dee-9f84-447b-a9f0-21fe157d659e" />
+<img width="1600" height="868" alt="image" src="https://github.com/user-attachments/assets/1927e1df-7236-4e7d-a673-5deebcc63334" />
+
 
 ### 4. Relay Status Dashboard Output
 
 ### Bulb ON → Relay ON  
-<img width="1280" height="570" alt="image" src="https://github.com/user-attachments/assets/68a7225b-5d4a-44c4-8b6f-4becb2c06ebe" />
+<img width="570" height="473" alt="image" src="https://github.com/user-attachments/assets/8c851cae-529a-4809-ba89-6d81eaa94ca3" />
+
 
 ### Bulb OFF → Relay OFF
-<img width="570" height="1280" alt="image" src="https://github.com/user-attachments/assets/e35bdff3-3a44-4e42-a82b-95ec10dc16e5" />
+<img width="752" height="570" alt="image" src="https://github.com/user-attachments/assets/7f8f0f57-550f-4d8d-8584-f48ce82ff060" />
+
 
 ## Conclusion
 The experiment demonstrates successful relay monitoring and control using LoRaWAN communication with real-time visualization on the dashboard.
