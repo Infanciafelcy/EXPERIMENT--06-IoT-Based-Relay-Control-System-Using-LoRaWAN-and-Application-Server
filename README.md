@@ -29,7 +29,8 @@ To configure a LoRaWAN end device and monitor IR sensor data using a network ser
 ### 1. Serial Port Utility – Network Server Connection
 
 #### AT+FDR
-![WhatsApp Image 2026-03-31 at 1 14 07 PM](https://github.com/user-attachments/assets/81677354-a77a-48b7-95d7-8121687a88ed)
+![Uploading image.png…]()
+
 
 #### AT+NJM=2
 <img width="1600" height="957" alt="image" src="https://github.com/user-attachments/assets/f1fb624e-1359-49ed-a44e-a43160d016a8" />
