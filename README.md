@@ -49,6 +49,11 @@ To configure a LoRaWAN end device and monitor IR sensor data using a network ser
 #### AT+APPEUI=
 <img width="1600" height="945" alt="image" src="https://github.com/user-attachments/assets/06b91bd7-1b5e-4d36-b2ca-b33eba39c273" />
 
+### AT+APPKEY=
+<img width="1600" height="946" alt="image" src="https://github.com/user-attachments/assets/2f8b63e3-1fdc-4687-a1ec-dbe98b5fae4e" />
+
+
+
 #### ATZ
 <img width="1600" height="927" alt="image" src="https://github.com/user-attachments/assets/8b95ff4f-5d42-42c8-ac71-2f3a95079a11" />
 
